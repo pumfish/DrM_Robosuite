@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization
 <p align="center" style="font-size: 50px">
    <a href="https://arxiv.org/abs/2310.19668">[Paper]</a>&emsp;<a href="https://drm-rl.github.io/">[Project Website]</a>
@@ -76,3 +77,7 @@ url={https://openreview.net/forum?id=MSe8YFbhUE}
 
 ## 🙏 Acknowledgement
 DrM is licensed under the MIT license. MuJoCo and DeepMind Control Suite are licensed under the Apache 2.0 license. We would like to thank DrQ-v2 authors for open-sourcing the [DrQv2](https://github.com/facebookresearch/drqv2) codebase. Our implementation builds on top of their repository.
+=======
+# DrM_Robosuite
+Add Robosuite Support to DrM
+>>>>>>> 749dca813a4493fa47eda9e90f8b3b6e40e9e72a
