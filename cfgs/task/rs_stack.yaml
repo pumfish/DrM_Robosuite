@@ -1,0 +1,9 @@
+defaults:
+  - hard
+  - _self_
+
+task_name: Stack
+# snapshot
+save_snapshot: true
+# misc
+save_train_video: true
